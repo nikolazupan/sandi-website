@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "propositum"
+
+
+[params]
+# contact
+contact_address = "Kamnik pod Krimom 30A, 1352 Preserje, Slovenija"
+contact_phone = "041/85-84-51"
+contact_email = "aleksander.sivic@gmail.com"
+
